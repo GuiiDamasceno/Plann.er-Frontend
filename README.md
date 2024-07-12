@@ -29,15 +29,15 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id='pages'> Layout</h2>
 
-![Home]()
+![Home](https://github.com/GuiiDamasceno/Plann.er-Frontend/blob/main/.github/Home.png)
 
-![Details]()
+![Details](https://github.com/GuiiDamasceno/Plann.er-Frontend/blob/main/.github/details.png)
 
 <h2 id="usage">Executando o Front-end</h2>
 
 ```bash
 # Clone o projeto para o local desejado em seu computador.
-$ 
+$ https://github.com/GuiiDamasceno/Plann.er-Frontend.git
 
 # Acesse a pasta do projeto:
 $ cd FoodExplorer-Frontend
